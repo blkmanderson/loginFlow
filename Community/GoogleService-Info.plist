@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>410418546749-2t4c458t6gm6v60jsboi8g9ebk0kuc4a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.410418546749-2t4c458t6gm6v60jsboi8g9ebk0kuc4a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxdJqdHxtoFTDBBsdKbSjOVgZHe0-3DWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>410418546749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bmanderson.CommunityGroups</string>
+	<key>PROJECT_ID</key>
+	<string>communitygroups-e9580</string>
+	<key>STORAGE_BUCKET</key>
+	<string>communitygroups-e9580.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:410418546749:ios:8a8808ab48e22df86e0254</string>
+	<key>DATABASE_URL</key>
+	<string>https://communitygroups-e9580.firebaseio.com</string>
+</dict>
+</plist>

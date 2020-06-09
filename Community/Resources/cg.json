@@ -1,0 +1,231 @@
+[
+    {
+        "id" : 1,
+        "imageName" : "290East",
+        "name" : "290 East",
+        "coordinates" : {
+            "latitude" : 30.325777,
+            "longitude" : -97.673156
+        },
+        "shepards" : "Adam & Laura Watson",
+        "contact" : "LWATSONPHOTOGRAPHY@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 2,
+        "imageName" : "cedarPark",
+        "name" : "Cedar Park/Leander",
+        "coordinates" : {
+            "latitude" : 30.534444,
+            "longitude" : -97.782402
+        },
+        "shepards" : "Juhan & Christine Kim",
+        "contact" : "PAIK.CHRISTINE@GMAIL.COM",
+        "day" : "Mondays at 7:00 p.m."
+    },
+    {
+        "id" : 3,
+        "imageName" : "steck",
+        "name" : "Steck",
+        "coordinates" : {
+            "latitude" : 30.362004,
+            "longitude" : -97.729294
+        },
+        "shepards" : "Andrew & Jennifer Newell",
+        "contact" : "JAKUNZ17@GMAIL.COM",
+        "day" : "Tuesdays at 7:15 p.m."
+    },
+    {
+        "id" : 4,
+        "imageName" : "brentwood",
+        "name" : "Brentwood",
+        "coordinates" : {
+            "latitude" : 30.326010,
+            "longitude" : -97.726269
+        },
+        "shepards" : "Harrison & Madison Miner",
+        "contact" : "MADISONUMINER@GMAIL.COM",
+        "day" : "Tuesdays at 7:30 p.m."
+    },
+    {
+        "id" : 5,
+        "imageName" : "farEast",
+        "name" : "Far East",
+        "coordinates" : {
+            "latitude" : 30.285643,
+            "longitude" : -97.664927
+        },
+        "shepards" : "KC & Blair Onyekanne",
+        "contact" : "BLAIRONYEKANNE@GMAIL.COM",
+        "day" : "Tuesdays at 7:30 p.m."
+    },
+    {
+        "id" : 6,
+        "imageName" : "solAve",
+        "name" : "SOl ave.",
+        "coordinates" : {
+            "latitude" : 30.276919,
+            "longitude" : -97.700312
+        },
+        "shepards" : "Krys & Amanda Henry",
+        "contact" : "KRYSTOFER.HENRY@GMAIL.COM",
+        "day" : "Tuesdays at 7:30 p.m."
+    },
+    {
+        "id" : 7,
+        "imageName" : "upperEast",
+        "name" : "Upper East",
+        "coordinates" : {
+            "latitude" : 30.315772,
+            "longitude" : -97.663153
+        },
+        "shepards" : "Tory & Natalie Mayo",
+        "contact" : "NATALIE.R.MAYO@GMAIL.COM",
+        "day" : "Tuesdays at 7:30 p.m."
+    },
+    {
+        "id" : 8,
+        "imageName" : "eMLK",
+        "name" : "E. MLK",
+        "coordinates" : {
+            "latitude" : 30.281286,
+            "longitude" : -97.710813
+        },
+        "shepards" : "Jacob & Julia Gritte",
+        "contact" : "JULIABLAIZE27@GMAIL.COM",
+        "day" : "Tuesdays at 7:15 p.m."
+    },
+    {
+        "id" : 9,
+        "imageName" : "arboretum",
+        "name" : "Arboretum",
+        "coordinates" : {
+            "latitude" : 30.394133,
+            "longitude" : -97.747411
+        },
+        "shepards" : "Tommy & Callie Ward",
+        "contact" : "EMILYJADE93@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 10,
+        "imageName" : "southAustin",
+        "name" : "South Austin",
+        "coordinates" : {
+            "latitude" : 30.166894,
+            "longitude" : -97.785438
+        },
+        "shepards" : "Eric & Sandra Leonard",
+        "contact" : "SARAH.SUSANNA.BIJOY@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 11,
+        "imageName" : "tarrytown",
+        "name" : "Tarrytown",
+        "coordinates" : {
+            "latitude" : 30.296685,
+            "longitude" : -97.768484
+        },
+        "shepards" : "Bob & Diana Christensen",
+        "contact" : "MISTERBC42@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 12,
+        "imageName" : "koeing",
+        "name" : "KOENIG",
+        "coordinates" : {
+            "latitude" : 30.329067,
+            "longitude" : -97.739842
+        },
+        "shepards" : "Chris & Kelsey Dalrymple.",
+        "contact" : "KELSEYBISCOE@GMAIL.COM",
+        "day" : "Wednesdays at 7:30 p.m."
+    },
+    {
+        "id" : 13,
+        "imageName" : "weberEast",
+        "name" : "Weber East",
+        "coordinates" : {
+            "latitude" : 30.282445,
+            "longitude" : -97.714947
+        },
+        "shepards" : "Todd Radin, Hunter Goodroe, Rachel Calhoun, & Kaelyn Terry",
+        "contact" : "KAELYNRTERRY@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 14,
+        "imageName" : "slaughterManchaca",
+        "name" : "Slaughter & Manchaca",
+        "coordinates" : {
+            "latitude" : 30.173675,
+            "longitude" : -97.823829
+        },
+        "shepards" : "Richard & Hannah Venable",
+        "contact" : "HANNAH.VENABLE@GMAIL.COM",
+        "day" : "Wednesdays at 7:00 p.m."
+    },
+    {
+        "id" : 15,
+        "imageName" : "mueller",
+        "name" : "Mueller",
+        "coordinates" : {
+            "latitude" : 30.286226,
+            "longitude" : -97.706372
+        },
+        "shepards" : "Robbie & Laurie Bergman",
+        "contact" : "LAURIE.E.BERGMAN@GMAIL.COM",
+        "day" : "Thursdays at 7:00 p.m."
+    },
+    {
+        "id" : 16,
+        "imageName" : "eAustin",
+        "name" : "East Austin",
+        "coordinates" : {
+            "latitude" : 30.274492,
+            "longitude" : -97.715909
+        },
+        "shepards" : "Daniel and Marina Lentz",
+        "contact" : "DANIEL@THEWELLAUSTIN.COM",
+        "day" : "Thursdays at 8:00 p.m."
+    },
+    {
+        "id" : 17,
+        "imageName" : "sola",
+        "name" : "SoLa",
+        "coordinates" : {
+            "latitude" : 30.280922,
+            "longitude" : -97.714375
+        },
+        "shepards" : " Nineesha Koshy, Jacob Jones, Mac Mascorro, & Libby Cleaves",
+        "contact" : "LIBBY.CLEAVES@GMAIL.COM",
+        "day" : "Thursdays at 7:00 p.m."
+    },
+    {
+        "id" : 18,
+        "imageName" : "farWest",
+        "name" : "FAR WEST",
+        "coordinates" : {
+            "latitude" : 30.351988,
+            "longitude" : -97.749634
+        },
+        "shepards" : "Jordan and Mikayla Garrison",
+        "contact" : "GARRISONSBYGRACE@GMAIL.COM",
+        "day" : "Thursdays at 7:30 p.m."
+    },
+    {
+        "id" : 19,
+        "imageName" : "cherrywood",
+        "name" : "Cherrywood",
+        "coordinates" : {
+            "latitude" : 30.301276,
+            "longitude" : -97.714518
+        },
+        "shepards" : "Garrett & Anne Boone",
+        "contact" : "BOON.GARRETT@GMAIL.COM",
+        "day" : "Sundays at 5:00 p.m."
+    }
+]
+
